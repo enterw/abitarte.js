@@ -1,0 +1,28 @@
+{
+  "name": "abitarte.js",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.3.8",
+    "jade": "*",
+    "stylus": "*"
+  },
+  "description": "Sito web per vendita rustico ristrutturato dall'artista Wenter Marini Giuseppe",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/enterw/abitarte.js"
+  },
+  "keywords": [
+    "rustico"
+  ],
+  "author": "Igor Wenter Marini",
+  "license": "No",
+  "bugs": {
+    "url": "https://github.com/enterw/abitarte.js/issues"
+  }
+}

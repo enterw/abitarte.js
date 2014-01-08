@@ -1,0 +1,20 @@
+{
+    "rotta-it": {
+        "casa": "/it/",
+        "artista": "/it/artista",
+        "zona": "/it/zona",
+        "contatti": "/it/contatti"
+    },
+    "rotta-fr": {
+        "casa": "/fr/",
+        "artista": "/fr/artiste",
+        "zona": "/fr/region",
+        "contatti": "/fr/contacts"
+    },
+    "rotta-en": {
+        "casa": "/en/",
+        "artista": "/en/artist",
+        "zona": "/en/area",
+        "contatti": "/en/contacts"
+    }
+}

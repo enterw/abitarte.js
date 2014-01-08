@@ -1,0 +1,24 @@
+extends layout
+
+block content
+  article
+    hgroup
+      h1 #{h1}
+      h2 #{h2}
+    
+    p.
+      !{p}
+    
+    div(ng-controller='MainCtrl2')
+      div(class="container slider")
+
+        div(class="didascalia")
+          div(id="container1" class="arrow prev" ng-click="showPrev()")
+          div(id="container2" class="arrow next" ng-click="showNext()")
+          p {{getDidascalia('#{currentLng}')}}
+                  
+        div.cornice
+          img(ng-repeat="photo in photos" class="slide" ng-swipe-right="showPrev()" ng-swipe-left="showNext()" ng-show="isActive($index)" ng-src="{{photo.src}}" alt="{{photo.desc}}")
+            
+     
+

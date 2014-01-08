@@ -1,0 +1,38 @@
+{
+    "app": {
+        "currentLng": "fr",
+        "lang": "fr-FR"
+    },
+    "casa": {
+        "seoTitle": "La casa title seo",
+        "seoDescription": "La casa description seo",
+        "h1": "h1",
+        "h2": "h2",
+        "p": "p",
+        "nav": "La maison"
+    },
+    "artista": {
+        "seoTitle": "L'artista title seo",
+        "seoDescription": "L'artista description seo",
+        "h1": "h1",
+        "h2": "h2",
+        "p": "p",
+        "nav": "L'artiste"
+    },
+    "zona": {
+        "seoTitle": "La zona title seo",
+        "seoDescription": "La zona description seo",
+        "h1": "h1",
+        "h2": "h2",
+        "p": "p",
+        "nav": "La zone"
+    },
+    "contatti": {
+        "seoTitle": "Contatti title seo",
+        "seoDescription": "Contatti description seo",
+        "h1": "h1",
+        "h2": "h2",
+        "p": "p",
+        "nav": "Contacts"
+    }
+}
