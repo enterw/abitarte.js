@@ -27,7 +27,7 @@ header h1
   padding-left: 36px;
   background-image: url('/img/casa.png');
   background-repeat: no-repeat;
-  background-position: left 0px;
+  background-position: left 6px;
   color: #cccccc;
   font-size: 40px;
    

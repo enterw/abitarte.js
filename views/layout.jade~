@@ -38,9 +38,7 @@ html(ng-app='website' lang="#{lang}")
     <!-- Inizio header -->
     header
       div.wrap
-        h1.
-          img(src="/img/casa.png")
-          Abitarte
+        h1 Abitarte
         <!-- Inizio navigazione principale -->
         nav
           h2(id="menu") Menu
@@ -60,7 +58,7 @@ html(ng-app='website' lang="#{lang}")
                 else
                   a(href="#{n.path}") #{n.label}
 
-          div(style="clear:both;")
+          div.clear
         <!-- Fine navigazione principale -->
     <!-- Fine header -->
     section.content 
