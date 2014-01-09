@@ -64,7 +64,7 @@
         "seoDescription": "Richiedi maggiori informazioni sul rustico in vendita nella zona di Verona ad alto benessere abitativo",
         "h1": "Contatti",
         "h2": "Richiedi maggiori informazioni",
-        "p": "info@abitarte.it",
+        "p": "<a href='mailto:info@abitarte.it'>info@abitarte.it</a>",
         "nav": "Contatti"
     }
 }

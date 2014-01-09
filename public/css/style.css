@@ -105,6 +105,10 @@ article h1 {
 article h2 {
   font-size: 140%;
   padding-bottom: 10px;
+  color: #999;
+}
+article p a {
+  color: #000;
 }
 .clear {
   clear: both;
