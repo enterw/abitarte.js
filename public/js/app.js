@@ -22,19 +22,20 @@ $(document).ready(function() {
       context.fillStrokeShape(this);
     },
     stroke: '#cccccc',
-    strokeWidth: 1
+    strokeWidth: 1,
+    fill: '#cccccc'
   });
   
   triangle1.on('mouseout', function() {
     document.body.style.cursor = "default";
     this.setStroke('#cccccc');
-    //this.setFill('#ffffff');
+    this.setFill('#cccccc');
     layer1.draw();    
   });
   triangle1.on('mouseover', function() {
     document.body.style.cursor = "pointer";
     this.setStroke('#999999');
-    //this.setFill('#cccccc');
+    this.setFill('#999999');
     layer1.draw();    
   });
   
@@ -63,19 +64,20 @@ $(document).ready(function() {
       context.fillStrokeShape(this);
     },
     stroke: '#cccccc',
-    strokeWidth: 1
+    strokeWidth: 1,
+    fill: '#cccccc'
   });
    
   triangle2.on('mouseout', function() {
     document.body.style.cursor = "default";
     this.setStroke('#cccccc');
-    //this.setFill('#ffffff');
+    this.setFill('#cccccc');
     layer2.draw();
   });
   triangle2.on('mouseover', function() {
     document.body.style.cursor = "pointer";
     this.setStroke('#999999');
-    //this.setFill('#cccccc');
+    this.setFill('#999999');
     layer2.draw();
   });
 
