@@ -64,8 +64,8 @@ angular.
         {src: '/img/slider/sliders/zona/020.resized.jpg', descIT: 'Teatro romano di Verona', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/zona/007.resized.jpg', descIT: 'Porta Borsari', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/zona/010.resized.jpg', descIT: 'Arena di Verona', descFR: '', descEN: ''},
-        {src: '/img/slider/sliders/zona/011.resized.jpg', descIT: 'Bardolino - lago di Garda', descFR: '', descEN: ''},
-        {src: '/img/slider/sliders/zona/013.resized.jpg', descIT: 'Bardolino - lago di Garda', descFR: '', descEN: ''}
+        {src: '/img/slider/sliders/zona/011.resized.jpg', descIT: 'Bardolino lago di Garda', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/zona/013.resized.jpg', descIT: 'Bardolino lago di Garda', descFR: '', descEN: ''}
     ];
     
     sliderInit($scope);
