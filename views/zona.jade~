@@ -6,9 +6,10 @@ block content
       h1 #{h1}
       h2 #{h2}
     
-    !{p}
+    p.
+      !{p}
     
-    div(ng-controller='MainCtrl3')
+    div(ng-controller='MainCtrl2')
       div(class="container slider")
 
         div(class="didascalia")
@@ -18,5 +19,6 @@ block content
                   
         div.cornice
           img(ng-repeat="photo in photos" class="slide" ng-swipe-right="showPrev()" ng-swipe-left="showNext()" ng-show="isActive($index)" ng-src="{{photo.src}}" alt="{{photo.desc}}")
-             
+            
+     
 
