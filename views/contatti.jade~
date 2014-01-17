@@ -10,4 +10,5 @@ block content
     br
     br
     div.mappa
-      <iframe width="938px" height="528px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.it/maps?oe=utf-8&amp;client=firefox-a&amp;channel=fflb&amp;ie=UTF8&amp;sll=45.438204,11.139182&amp;q=via+osteria+5+lavagno&amp;hq=&amp;hnear=Via+Osteria,+5,+Osteria,+Verona,+Veneto&amp;ll=45.438204,11.139182&amp;spn=0.003945,0.010504&amp;t=m&amp;z=14&amp;iwloc=&amp;output=embed"></iframe>
+      div.iframeWrapper
+        <iframe width="938px" height="528px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.it/maps?oe=utf-8&amp;client=firefox-a&amp;channel=fflb&amp;ie=UTF8&amp;sll=45.438204,11.139182&amp;q=via+osteria+6+lavagno&amp;hq=&amp;hnear=Via+Osteria,+5,+Osteria,+Verona,+Veneto&amp;ll=45.438204,11.139182&amp;spn=0.003945,0.010504&amp;t=m&amp;z=14&amp;iwloc=&amp;output=embed"></iframe>
