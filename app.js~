@@ -22,7 +22,7 @@ i18n.init({
 });
 
 app.configure(function() {
-  //app.use(express.compress());
+  app.use(express.compress());
   app.use(i18n.handle);
   app.use(express.favicon(path.join(__dirname, '/public/img/favicon.ico')));
   app.use(express.logger('dev'));
@@ -41,6 +41,10 @@ app.set('view engine', 'jade');
 
 i18n.registerAppHelper(app);
 
+app.get('/immobili_pdf.asp?id_item=437', function (req, res) {
+  res.redirect(301, '/it/');
+});
+
 app.get('/', function (req, res) {
     res.redirect(301, '/it/');
 });
@@ -57,6 +61,8 @@ app.get('/en/area', routes.zona);
 app.get('/it/contatti', routes.contatti);
 app.get('/fr/contacts', routes.contatti);
 app.get('/en/contacts', routes.contatti);
+
+
 
 app.get('*', function(req, res){
   res.send('404:Pagina non disponibile!', 404);
