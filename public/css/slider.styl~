@@ -18,9 +18,6 @@
   font-size:0px;
   line-height:0px;
   
-.cornice img
-  cursor: pointer;
-  
 .slider .didascalia
   position: relative;
   padding:10px 0px 10px 120px;

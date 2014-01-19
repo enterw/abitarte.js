@@ -6,8 +6,7 @@ block content
       h1 #{h1}
       h2 #{h2}
     
-    p.
-      !{p}
+    !{p}
     
     div(ng-controller='MainCtrl2')
       div(class="container slider")
