@@ -59,7 +59,8 @@ app.get('/fr/contacts', routes.contatti);
 app.get('/en/contacts', routes.contatti);
 
 app.get('*', function(req, res){
-  res.send('404:Pagina non disponibile!', 404);
+  res.redirect(301, '/it/');
+  //res.send('404:Pagina non disponibile!', 404);
 });
 
 function logErrors(err, req, res, next) {
