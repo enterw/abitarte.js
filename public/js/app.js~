@@ -38,6 +38,10 @@ $(document).ready(function() {
     this.setFill('#999999');
     layer1.draw();    
   });
+  triangle1.on('click', function() {
+    var scope = angular.element($(".MainCtrl3")).scope();
+    scope.showPrew();
+  });
   
   // add the triangle shape to the layer
   layer1.add(triangle1);
@@ -64,7 +68,8 @@ $(document).ready(function() {
       context.fillStrokeShape(this);
     },
     stroke: '#cccccc',
-    strokeWidth: 1
+    strokeWidth: 1,
+    fill: '#cccccc'
   });
    
   triangle2.on('mouseout', function() {
@@ -78,6 +83,10 @@ $(document).ready(function() {
     this.setStroke('#999999');
     this.setFill('#999999');
     layer2.draw();
+  });
+  triangle2.on('click', function() {
+    var scope = angular.element($("#container2")).scope();
+    scope.$apply("showNext()");
   });
 
   // add the triangle shape to the layer

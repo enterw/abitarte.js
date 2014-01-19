@@ -38,6 +38,10 @@ $(document).ready(function() {
     this.setFill('#999999');
     layer1.draw();    
   });
+  triangle1.on('click', function() {
+    var scope = angular.element($("#container1")).scope();
+    scope.$apply("showPrew()");
+  });
   
   // add the triangle shape to the layer
   layer1.add(triangle1);
@@ -79,6 +83,10 @@ $(document).ready(function() {
     this.setStroke('#999999');
     this.setFill('#999999');
     layer2.draw();
+  });
+  triangle2.on('click', function() {
+    var scope = angular.element($("#container2")).scope();
+    scope.$apply("showNext()");
   });
 
   // add the triangle shape to the layer
