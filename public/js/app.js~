@@ -39,8 +39,8 @@ $(document).ready(function() {
     layer1.draw();    
   });
   triangle1.on('click', function() {
-    var scope = angular.element($(".MainCtrl3")).scope();
-    scope.showPrew();
+    var scope = angular.element($("#container1")).scope();
+    scope.$apply("showPrew()");
   });
   
   // add the triangle shape to the layer

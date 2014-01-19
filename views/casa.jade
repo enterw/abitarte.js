@@ -12,8 +12,8 @@ block content
       div(class="container slider")
 
         div(class="didascalia")
-          div(id="container1" class="arrow prev")
-          div(id="container2" class="arrow next")
+          div(id="container1" class="arrow prev" ng-click="showPrev()")
+          div(id="container2" class="arrow next" ng-click="showNext()")
           p {{getDidascalia('#{currentLng}')}}
                  
         div.cornice
