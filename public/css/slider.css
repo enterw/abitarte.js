@@ -1,12 +1,25 @@
 .arrow {
   position: absolute;
   top: 0px;
+  display: block;
+  width: 50px;
+  height: 40px;
+  background-image: url("/img/slider/freccie.jpg");
+  background-repeat: no-repeat;
 }
 .arrow.prev {
   left: 0px;
+  background-position: 0px 0px;
+}
+.arrow.prev:hover {
+  background-position: -110px 0px;
 }
 .arrow.next {
   left: 60px;
+  background-position: -60px 0px;
+}
+.arrow.next:hover {
+  background-position: -170px 0px;
 }
 .slider {
   width: 100%;

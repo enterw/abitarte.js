@@ -7,6 +7,9 @@ angular.
     // Set of Photos
     $scope.photos = [
         {src: '/img/slider/sliders/casa/001.resized.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/casa/029.resized.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/casa/028.resized.jpg', descIT: '', descFR: '', descEN: ''}, 
+        {src: '/img/slider/sliders/casa/030.resized.jpg', descIT: '', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/casa/002.resized.jpg', descIT: '', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/casa/003.resized.jpg', descIT: '', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/casa/004.resized.jpg', descIT: '', descFR: '', descEN: ''},
@@ -30,7 +33,7 @@ angular.
         {src: '/img/slider/sliders/casa/023.resized.jpg', descIT: '', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/casa/024.resized.jpg', descIT: '', descFR: '', descEN: ''},  
         {src: '/img/slider/sliders/casa/026.resized.jpg', descIT: '', descFR: '', descEN: ''},
-        {src: '/img/slider/sliders/casa/027.resized.jpg', descIT: '', descFR: '', descEN: ''} 
+        {src: '/img/slider/sliders/casa/027.resized.jpg', descIT: '', descFR: '', descEN: ''}
     ];
 
     sliderInit($scope);

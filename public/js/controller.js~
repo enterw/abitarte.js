@@ -7,6 +7,9 @@ angular.
     // Set of Photos
     $scope.photos = [
         {src: '/img/slider/sliders/casa/001.resized.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/casa/028.resized.jpg', descIT: '', descFR: '', descEN: ''},  
+        {src: '/img/slider/sliders/casa/029.resized.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/casa/030.resized.jpg', descIT: '', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/casa/002.resized.jpg', descIT: '', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/casa/003.resized.jpg', descIT: '', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/casa/004.resized.jpg', descIT: '', descFR: '', descEN: ''},
@@ -30,7 +33,7 @@ angular.
         {src: '/img/slider/sliders/casa/023.resized.jpg', descIT: '', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/casa/024.resized.jpg', descIT: '', descFR: '', descEN: ''},  
         {src: '/img/slider/sliders/casa/026.resized.jpg', descIT: '', descFR: '', descEN: ''},
-        {src: '/img/slider/sliders/casa/027.resized.jpg', descIT: '', descFR: '', descEN: ''} 
+        {src: '/img/slider/sliders/casa/027.resized.jpg', descIT: '', descFR: '', descEN: ''}
     ];
 
     sliderInit($scope);
@@ -64,8 +67,8 @@ angular.
         {src: '/img/slider/sliders/zona/020.resized.jpg', descIT: 'Teatro romano di Verona', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/zona/007.resized.jpg', descIT: 'Porta Borsari', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/zona/010.resized.jpg', descIT: 'Arena di Verona', descFR: '', descEN: ''},
-        {src: '/img/slider/sliders/zona/011.resized.jpg', descIT: 'Bardolino lago di Garda', descFR: '', descEN: ''},
-        {src: '/img/slider/sliders/zona/013.resized.jpg', descIT: 'Bardolino lago di Garda', descFR: '', descEN: ''}
+        {src: '/img/slider/sliders/zona/011.resized.jpg', descIT: 'Bardolino - lago di Garda', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/zona/013.resized.jpg', descIT: 'Bardolino - lago di Garda', descFR: '', descEN: ''}
     ];
     
     sliderInit($scope);
