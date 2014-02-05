@@ -46,11 +46,12 @@ html(ng-app='website' lang="#{lang}")
 
   script(src='/js/libs/yepnope.1.5.4-min.js')
   
+  link(href='http://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css')
+  
   script.
     yepnope([  
-      'http://fonts.googleapis.com/css?family=Raleway:400,600',
       '/css/style.css',  
-      '/css/slider.css'      
+      '/css/slider.css'        
     ]); 
 
   script(src="/js/libs/jquery.min.js")

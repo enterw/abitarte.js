@@ -43,19 +43,13 @@ html(ng-app='website' lang="#{lang}")
     footer
       div.wrap
         p Copyright 2014 Giuseppe Wenter Marini
-
-  script(src='/js/libs/yepnope.1.5.4-min.js')
   
   link(href='http://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css')
-  
-  script.
-    yepnope([  
-      '/css/style.css',  
-      '/css/slider.css'        
-    ]); 
+  link(rel='stylesheet', href='/css/style.css')
+  link(rel='stylesheet', href='/css/slider.css')
 
   script(src="/js/libs/jquery.min.js")
-  
+   
   script(src="/js/libs/angular.min.js")
   script(src="/js/libs/angular-animate.min.js")
   script(src="/js/libs/angular-touch.min.js")
