@@ -52,7 +52,7 @@ function render(req, res, currentRotta)
   
   var navLang = [
     { label: 'it', key: 'it', path: navIt }//,
-    //{ label: 'fr', key: 'fr', path: navFr },
+    //{ label: 'fr', key: 'fr', path: navFr }//,
     //{ label: 'en', key: 'en', path: navEn },
   ];
      

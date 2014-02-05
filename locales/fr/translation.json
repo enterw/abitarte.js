@@ -24,27 +24,50 @@
         "nav": "La maison"
     },
     "artista": {
-        "seoTitle": "L'artista title seo",
-        "seoDescription": "L'artista description seo",
-        "h1": "h1",
-        "h2": "h2",
-        "p": "p",
+        "seoTitle": "Maison de campagne à vendre restauré et personnalisé par l'artiste Giuseppe Marini Wenter",
+        "seoDescription": "Né en 1944 à Merano (BZ) - Italie",
+        "h1": "Maison de campagne à vendre restauré et personnalisé par l'artiste Giuseppe Marini Wenter",
+        "h2": "Né en 1944 à Merano (BZ) - Italie",
+        "p": [
+          "Séjour à Rovereto et Trento, en prenant une participation dans les mouvements artistiques, participer à des cercles culturels et des groupes de recherche d'art local.<br/><br/>",
+          "Après avoir déménagé à <b>Bruxelles</b> dans les années 70, il a pris des cours de peinture, dessin et la gravure à <b>Académie Royale des Beaux-Arts</b> entraînée par les grands artistes internationaux.<br/><br/>",
+          "Il a développé des œuvres et appelle <b>IPOTESI e PROPOSTE</b>, <b>VERIFICA di IPOTESI</b>, <b>SENSAZINI</b> et plus tard.<br/><br/>",
+          "Activité:<br/>",
+          "depuis 1963 dans expositions individuelles et collectives organisées par les cercles culturels <b> </ b> et <b> organes représentatifs </ b>, <b> organismes publics </ b> et <b> Galeries </ b> avec les questions graphiques uniques par le SELECTA srl.<br/><br/>",
+          "Salons et expositions:",
+          "<ul><li>Riykcentrum de Frans Masereel - Ministerie van Nederlandse Cultuur - Kasterlee</li>",
+          "<li>à 'Institut culturel italien à Bruxelles</li>",
+          "<li>Institut culturel italien à Amsterdam</li>",
+          "<li>la Commission Des communautés Europennes - Europa club Overijse</li>",
+          "<li>Ses œuvres sont dans des collections privées et publiques</li>",
+          "<li>acquisitions de la Bibliothèque Royale de Belgique Albert 1°</li>",
+          "<li>Ministere de l'Education Nationale de Belgique</li></ul>"
+        ],
         "nav": "L'artiste"
     },
     "zona": {
-        "seoTitle": "La zona title seo",
-        "seoDescription": "La zona description seo",
-        "h1": "h1",
-        "h2": "h2",
-        "p": "p",
+        "seoTitle": "Rustico d'autore in vendita in zona di Verona",
+        "seoDescription": "Accessibile e ad alto benessere abitativo",
+        "h1": "Rustico d'autore in vendita in zona di Verona",
+        "h2": "Accessibile e ad alto benessere abitativo",
+        "p": [
+          "In posizione accessibile facilmente da strada comunale:",
+          "<ul><li>3,5 km (6 minuti) uscita <b>tangenziale sud</b> di Verona</li>",
+          "<li>6 km (10 minuti) uscita casello <b>autostradale Verona-Est (A4 Milano-Venezia)</b></li>",
+          "<li>16 km (20 minuti) <b>centro Verona</b></li>",
+          "<li>42 km (35 minuti) <b>Peschiera</b> e <b>lago di Garda</b></li>",
+          "<li>50 km (35 minuti) centro <b>Vicenza</b></li>",
+          "<li>100 km <b>Venezia</b></li>",
+          "<li>150 km <b>Dolomiti</b></li></ul>"
+        ],
         "nav": "La zone"
     },
     "contatti": {
-        "seoTitle": "Contatti title seo",
-        "seoDescription": "Contatti description seo",
-        "h1": "h1",
-        "h2": "h2",
-        "p": "p",
+        "seoTitle": "Contatti",
+        "seoDescription": "Per ulteriori dettagli e prezzo del casale rustico ristrutturato dall'artista Wenter Marini Giuseppe",
+        "h1": "Contatti",
+        "h2": "Per ulteriori dettagli e prezzo",
+        "p": "<a href='mailto:info@abitarte.it'>info@abitarte.it</a><br/>+39 339 8033422",
         "nav": "Contacts"
     }
 }

@@ -125,7 +125,10 @@ article a
 	left: 0;
 	width: 100%;
 	height: 100%;
-    
+	
+a
+  outline: 0;
+     
 @media only screen and (min-width: 768px)
 
   nav ul#menu-principale
@@ -154,6 +157,9 @@ article a
     
   nav
     margin: 0px 0px 0px 0px;
+    position:absolute;
+    top:0px;
+    left:0px;
 
   nav > h2
     color: #999999;

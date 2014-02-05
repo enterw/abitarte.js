@@ -10,9 +10,9 @@
         "h2": "Restauré et personnalisé par l'artiste Giuseppe Marini Wenter",
         "p": [ 
           "Niché dans les collines verdoyantes vers le <b>Mezzane Valley</b> à la périphérie du centre de Saint-Pierre. <br/><br/>",
-          "Partie d'une ancienne habitation rustique de 700 (ancienne auberge ancienne), face nouveau lotissement résidentiel prestigieux dans le recensement de la ville de NCU Lavagno (VR) partie 324 feuille 11. <br/>",        
-          "10 chambres de plans au sol , premier et deuxième tot . D' une superficie d'environ 340 mètres carrés</b> (310 fonctionnelle). <br/>",        
-          "Proprirtario unique , déjà fait l'objet de réhabilitation et de restauration<b></b> de la population de l'intégration fonctionnelle de 1983, l'extension possible de la restauration, habitable de suite. <br/>",       
+          "Partie d'une ancienne habitation rustique de 700 (ancienne auberge ancienne), face nouveau lotissement résidentiel prestigieux dans le recensement de la ville de NCU Lavagno (VR) partie 324 feuille 11. <br/><br/>",        
+          "10 chambres de plans au sol , premier et deuxième tot . D' une superficie d'environ 340 mètres carrés</b> (310 fonctionnelle). <br/><br/>",        
+          "Proprirtario unique , déjà fait l'objet de réhabilitation et de restauration<b></b> de la population de l'intégration fonctionnelle de 1983, l'extension possible de la restauration, habitable de suite. <br/><br/>",       
           "C'est la fin de la ferme rustique avec vue sur 3 côtés: ",
           "<li><b>RDC</b>: grand hall d'entrée avec escalier prospicente, carrelage en terre cuite, petite cave avec entrée proxénète </li>",   
           "<li><b>Premier étage</b>: salle de séjour avec planchers de terrazzo avec des motifs géométriques, une grande terrasse panoramique de 30 m², escalier au deuxième étage avec boiseries, plafond avec poutres apparentes peintes motifs, cuisine avec cheminée, grande salle de bains avec la fin de plancher de céramique, 1 chambre à coucher avec planchers de bois franc </li>",       
@@ -24,11 +24,25 @@
         "nav": "La maison"
     },
     "artista": {
-        "seoTitle": "L'artista title seo",
-        "seoDescription": "L'artista description seo",
-        "h1": "h1",
-        "h2": "h2",
-        "p": "p",
+        "seoTitle": "Maison de campagne à vendre restauré et personnalisé par l'artiste Giuseppe Marini Wenter",
+        "seoDescription": "Né en 1944 à Merano (BZ) - Italie",
+        "h1": "Maison de campagne à vendre restauré et personnalisé par l'artiste Giuseppe Marini Wenter",
+        "h2": "Né en 1944 à Merano (BZ) - Italie",
+        "p": [
+          "Séjour à Rovereto et Trento, en prenant une participation dans les mouvements artistiques, participer à des cercles culturels et des groupes de recherche d'art local.<br/><br/>",
+          "Après avoir déménagé à <b>Bruxelles</b> dans les années 70, il a pris des cours de peinture, dessin et la gravure à <b>Académie Royale des Beaux-Arts</b> entraînée par les grands artistes internationaux.<br/><br/>",
+          "Il a développé des œuvres et appelle <b>IPOTESI e PROPOSTE</b>, <b>VERIFICA di IPOTESI</b>, <b>SENSAZINI</b> et plus tard.<br/><br/>",
+          "Activité:<br/>",
+          "depuis 1963 dans expositions individuelles et collectives organisées par les cercles culturels <b> </ b> et <b> organes représentatifs </ b>, <b> organismes publics </ b> et <b> Galeries </ b> avec les questions graphiques uniques par le SELECTA srl.<br/><br/>",
+          "Salons et expositions:",
+          "<ul><li>Riykcentrum de Frans Masereel - Ministerie van Nederlandse Cultuur - Kasterlee</li>",
+          "<li>à 'Institut culturel italien à Bruxelles</li>",
+          "<li>Institut culturel italien à Amsterdam</li>",
+          "<li>la Commission Des communautés Europennes - Europa club Overijse</li>",
+          "<li>Ses œuvres sont dans des collections privées et publiques</li>",
+          "<li>acquisitions de la Bibliothèque Royale de Belgique Albert 1°</li>",
+          "<li>Ministere de l'Education Nationale de Belgique</li></ul>"
+        ],
         "nav": "L'artiste"
     },
     "zona": {
