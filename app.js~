@@ -8,6 +8,7 @@ var routes = require('./routes');
 var http = require('http');
 var path = require('path');
 var i18n = require('i18next');
+var minify = require('express-minify');
 
 var app = module.exports = express();
 
@@ -23,6 +24,7 @@ i18n.init({
 
 app.configure(function() {
   app.use(express.compress());
+  app.use(minify());
   app.use(i18n.handle);
   app.use(express.favicon(path.join(__dirname, '/public/img/favicon.ico')));
   app.use(express.logger('dev'));
@@ -59,7 +61,8 @@ app.get('/fr/contacts', routes.contatti);
 app.get('/en/contacts', routes.contatti);
 
 app.get('*', function(req, res){
-  res.send('404:Pagina non disponibile!', 404);
+  res.redirect(301, '/it/');
+  //res.send('404:Pagina non disponibile!', 404);
 });
 
 function logErrors(err, req, res, next) {

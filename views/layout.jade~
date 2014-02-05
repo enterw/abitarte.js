@@ -16,7 +16,7 @@ html(ng-app='website' lang="#{lang}")
 
     script(src='/js/libs/jquery.min.js')
    
-    script(src="/js/libs/angular.js")
+    script(src="/js/libs/angular.min.js")
     script(src="/js/libs/angular-animate.min.js")
     script(src="/js/libs/angular-touch.min.js")
 
