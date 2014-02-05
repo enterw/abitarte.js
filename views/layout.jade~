@@ -44,19 +44,13 @@ html(ng-app='website' lang="#{lang}")
       div.wrap
         p Copyright 2014 Giuseppe Wenter Marini
   
-  script(src="/js/libs/modernizr.min.js")
+  link(href='http://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css')
+  script(src="/js/libs/yepnope.1.5.4-min.js")
   
   script.
-    Modernizr.load({
-      load: [
-        'http://fonts.googleapis.com/css?family=Raleway:400,600',
-        '/css/style.css',
-        '/css/slider.css'],
-      callback:
-        function (url, result, key) {
-            console.log('loaded...!');          
-        }      
-    });
+    yepnope([
+      '/css/style.css',
+      '/css/slider.css']);
   
   script(src="/js/libs/jquery.min.js" defer)
    
