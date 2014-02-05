@@ -157,9 +157,6 @@ a
     
   nav
     margin: 0px 0px 0px 0px;
-    position:absolute;
-    top:0px;
-    left:0px;
 
   nav > h2
     color: #999999;
