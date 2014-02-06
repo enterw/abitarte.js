@@ -1,0 +1,5 @@
+#!/bin/bash
+for F in casa/*.jpg
+do
+    jpegtran -copy none -optimize -perfect "$F" > /res/"$F"
+done
