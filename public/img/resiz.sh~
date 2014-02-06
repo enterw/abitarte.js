@@ -1,6 +1,6 @@
 #!/bin/sh
 
 mkdir -p resized
-for JPEG in *.jpg ; do
+for JPEG in *.png ; do
     jpegtran -copy none -optimize -perfect $JPEG > resized/$JPEG
 done 
