@@ -44,9 +44,6 @@ html(ng-app='website' lang="#{lang}")
       div.wrap
         p Copyright 2014 Giuseppe Wenter Marini
   
-  link(rel='stylesheet', href='/css/style.css')
-  link(rel='stylesheet', href='/css/slider.css')
-
   script(src="/js/libs/jquery.min.js" defer)
    
   script(src="/js/libs/angular.min.js" defer)
@@ -64,3 +61,7 @@ html(ng-app='website' lang="#{lang}")
 
     ga('create', 'UA-23943638-12', 'abitarte.it');
     ga('send', 'pageview');
+  
+  script.
+    yepnope(["/css/style.css", "/css/slider.css"]);  
+
