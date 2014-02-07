@@ -8,6 +8,7 @@ block content
     
     !{p}
     
+    <!-- Inizio slider -->
     div(ng-controller='MainCtrl3')
       div(class="container slider")
 
@@ -18,5 +19,5 @@ block content
                   
         div.cornice
           img(ng-repeat="photo in photos" class="slide" ng-click="showPrev()" ng-swipe-right="showPrev()" ng-swipe-left="showNext()" ng-show="isActive($index)" ng-src="{{photo.src}}" alt="{{photo.desc}}")
-             
+     <!-- Fine slider -->      
 
