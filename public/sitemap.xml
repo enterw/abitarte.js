@@ -8,14 +8,50 @@
 
 <url>
   <loc>http://www.abitarte.it</loc>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>http://www.abitarte.it/it/artista</loc>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.abitarte.it/it/zona</loc>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.abitarte.it/it/contatti</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.abitarte.it/fr/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.abitarte.it/en/</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.abitarte.it/fr/artiste</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.abitarte.it/en/artist</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.abitarte.it/fr/region</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.abitarte.it/en/area</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.abitarte.it/fr/contacts</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.abitarte.it/en/contacts</loc>
+  <priority>0.64</priority>
 </url>
 </urlset>
