@@ -9,17 +9,17 @@
         "h1": "Rustique auteur de ferme à vendre près de Vérone",
         "h2": "Restauré et personnalisé par l'artiste Giuseppe Marini Wenter",
         "p": [ 
-          "Niché dans les collines verdoyantes vers le <b>Mezzane Valley</b> à la périphérie du centre de Saint-Pierre. <br/><br/>",
-          "Partie d'une ancienne habitation rustique de 700 (ancienne auberge ancienne), face nouveau lotissement résidentiel prestigieux dans le recensement de la ville de NCU Lavagno (VR) partie 324 feuille 11. <br/><br/>",        
-          "10 chambres de plans au sol , premier et deuxième tot . D' une superficie d'environ 340 mètres carrés</b> (310 fonctionnelle). <br/><br/>",        
-          "Proprirtario unique , déjà fait l'objet de réhabilitation et de restauration<b></b> de la population de l'intégration fonctionnelle de 1983, l'extension possible de la restauration, habitable de suite. <br/><br/>",       
-          "C'est la fin de la ferme rustique avec vue sur 3 côtés: ",
-          "<li><b>RDC</b>: grand hall d'entrée avec escalier prospicente, carrelage en terre cuite, petite cave avec entrée proxénète </li>",   
-          "<li><b>Premier étage</b>: salle de séjour avec planchers de terrazzo avec des motifs géométriques, une grande terrasse panoramique de 30 m², escalier au deuxième étage avec boiseries, plafond avec poutres apparentes peintes motifs, cuisine avec cheminée, grande salle de bains avec la fin de plancher de céramique, 1 chambre à coucher avec planchers de bois franc </li>",       
-          "<li><b>Deuxième étage</b>: lumineux et grenier (hauteur moyenne de 2,36 mètres - 2,98 mètres maximum) lambris avec poutres apparentes traitées et peintes sur toute la plage, salon, chambre à coucher 2-3 lit, salle de bains, planchers de bois franc, moquette, de couleur caoutchouc </li>",
-          "<li>chauffage et modulaire </li>",
-          "<li>Garage ou tout autre sur le non restauré</li> gauche ",
-          "<li><b>Façade pierre</b>.</li></ul> "      
+          "Niché dans les collines verdoyantes vers la vallée Mezzane, sur le bord du centre de Saint-Pierre.<br/><br/>",
+          "Partie de l'ancienne complexe rustique de 700 (ancienne auberge ancienne), face nouveau lotissement prestigieux recensement résidentiel dans NCU la municipalité de Lavagno (VR) partie 324 feuille 11.<br/><br/>",        
+          "Plans chaussée, premier et deuxième tot. 10 chambres d'une superficie d'environ 340 mètres carrés. (310 fonctionnelle).<br/><br/>",        
+          "Un propriétaire, déjà fait l'objet de réhabilitation et de restauration de la population de l'intégration fonctionnelle de 1983, l'extension possible de la restauration, habitable de suite.<br/><br/>",       
+          "Et la fin de la ferme rustique avec vue sur 3 côtés: ",
+          "<ul><li>au rez de chaussée: grand hall d'entrée avec escalier en face, carrelage en terre cuite, petite cave avec entrée au milieu;</li>",   
+          "<li>Premier étage: salle de séjour avec terrazzo modelé, grande terrasse de 30 m²; escalier au deuxième étage avec boiseries, plafond avec poutres apparentes peintes avec des motifs géométriques, cuisine avec cheminée, grande salle de bains. avec fin de céramique au sol, 1 chambre avec parquet;</li>",       
+          "<li>Deuxième étage: lumineux et grenier (hauteur moyenne de 2,36 mètres - 2,98 mètres maximum) lambris avec poutres apparentes traitées et peintes sur toute la plage, salon, 2-3 chambres à coucher, salle de bains, planchers de bois franc, moquette , le caoutchouc de couleur;</li>",
+          "<li>chauffage et modulaire;</li>",
+          "<li>un garage ou tout autre sur le côté gauche n'est pas rétablie;</li>",
+          "<li>façade en pierre.</li></ul> "      
         ],
         "nav": "La maison"
     },
@@ -30,10 +30,10 @@
         "h2": "Né en 1944 à Merano (BZ) - Italie",
         "p": [
           "Séjour à Rovereto et Trento, en prenant une participation dans les mouvements artistiques, participer à des cercles culturels et des groupes de recherche d'art local.<br/><br/>",
-          "Après avoir déménagé à <b>Bruxelles</b> dans les années 70, il a pris des cours de peinture, dessin et la gravure à <b>Académie Royale des Beaux-Arts</b> entraînée par les grands artistes internationaux.<br/><br/>",
-          "Il a développé des œuvres et appelle <b>IPOTESI e PROPOSTE</b>, <b>VERIFICA di IPOTESI</b>, <b>SENSAZINI</b> et plus tard.<br/><br/>",
+          "Après avoir déménagé à Bruxelles dans les années 70, il a pris des cours de peinture, dessin et la gravure à l'Académie Royale des Beaux-Arts dirigés par de grands artistes internationaux.<br/><br/>",
+          "Il a développé des œuvres et appelle IPOTESI e PROPOSTE, VERIFICA di IPOTESI, SENSAZINI et plus tard.<br/><br/>",
           "Activité:<br/>",
-          "depuis 1963 dans expositions individuelles et collectives organisées par les cercles culturels <b> </ b> et <b> organes représentatifs </ b>, <b> organismes publics </ b> et <b> Galeries </ b> avec les questions graphiques uniques par le SELECTA srl.<br/><br/>",
+          "depuis 1963 dans expositions individuelles et collectives organisées par les cercles culturels et les organismes représentatifs, les éditions publiques et des galeries avec des graphismes uniques par le SELECTA srl.<br/><br/>",
           "Salons et expositions:",
           "<ul><li>Riykcentrum de Frans Masereel - Ministerie van Nederlandse Cultuur - Kasterlee</li>",
           "<li>à 'Institut culturel italien à Bruxelles</li>",
@@ -46,19 +46,28 @@
         "nav": "L'artiste"
     },
     "zona": {
-        "seoTitle": "La zona title seo",
-        "seoDescription": "La zona description seo",
-        "h1": "h1",
-        "h2": "h2",
-        "p": "p",
+        "seoTitle": "Copyright rustique à vendre dans la région de Vérone",
+        "seoDescription": "Accessible et un grand confort de vie",
+        "h1": "Copyright rustique à vendre dans la région de Vérone",
+        "h2": "Accessible et un grand confort de vie",
+        "p": [
+          "En position facilement accessible par la route publique:",
+          "<ul><li>3,5 km (6 min) sortie <b>tangentielle sud</b> de Vérone</li>",
+          "<li>6 km (10 minuti) uscita casello <b>autostradale Verona-Est (A4 Milano-Venezia)</b></li>",
+          "<li>16 km (20 minutes) <b>centre de Vérone</b></li>",
+          "<li>42 km (35 minutes) <b>Peschiera</b> et du <b>lac de Garde</b></li>",
+          "<li>50 km (35 minuti) centro <b>Vicenza</b></li>",
+          "<li>50 km (35 minutes) du centre de <b>Vicence</b></li>",
+          "<li>150 km <b>Dolomites</b></li></ul>"
+        ],
         "nav": "La zone"
     },
     "contatti": {
-        "seoTitle": "Contatti title seo",
-        "seoDescription": "Contatti description seo",
-        "h1": "h1",
-        "h2": "h2",
-        "p": "p",
+        "seoTitle": "Contacts",
+        "seoDescription": "Pour plus de détails et les prix de la ferme rustique entièrement rénové par l'artiste Giuseppe Marini Wenter",
+        "h1": "Contacts",
+        "h2": "Pour plus de détails et prix",
+        "p": "<a href='mailto:info@abitarte.it'>info@abitarte.it</a><br/>+39 339 8033422",
         "nav": "Contacts"
     }
 }

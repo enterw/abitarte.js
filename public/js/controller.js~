@@ -7,8 +7,8 @@ angular.
     // Set of Photos
     $scope.photos = [
         {src: '/img/slider/sliders/casa/001.resized.jpg', descIT: '', descFR: '', descEN: ''},
-        {src: '/img/slider/sliders/casa/028.resized.jpg', descIT: '', descFR: '', descEN: ''},  
         {src: '/img/slider/sliders/casa/029.resized.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/casa/028.resized.jpg', descIT: '', descFR: '', descEN: ''}, 
         {src: '/img/slider/sliders/casa/030.resized.jpg', descIT: '', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/casa/002.resized.jpg', descIT: '', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/casa/003.resized.jpg', descIT: '', descFR: '', descEN: ''},

@@ -51,9 +51,9 @@ function render(req, res, currentRotta)
   var navEn = i18n.t('rotta-en.'+currentRotta, { lng: 'dev' });
   
   var navLang = [
-    { label: 'it', key: 'it', path: navIt }//,
-    //{ label: 'fr', key: 'fr', path: navFr }//,
-    //{ label: 'en', key: 'en', path: navEn },
+    { label: 'it', key: 'it', path: navIt },
+    { label: 'fr', key: 'fr', path: navFr },
+    { label: 'en', key: 'en', path: navEn },
   ];
      
   res.setHeader("Content-Language", lang);

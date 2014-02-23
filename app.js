@@ -11,6 +11,8 @@ var i18n = require('i18next');
 
 var app = module.exports = express();
 
+var oneDay = 86400000;
+
 i18n.init({
   saveMissing: false,
   debug: false,
@@ -26,10 +28,10 @@ app.configure(function() {
   app.use(i18n.handle);
   app.use(express.favicon(path.join(__dirname, '/public/img/favicon.ico')));
   app.use(express.logger('dev'));
-  app.use(express.bodyParser());
+  app.use(express.bodyParser());  
   app.use(express.methodOverride());
   app.use(require('stylus').middleware(__dirname + '/public'));
-  app.use(express.static(path.join(__dirname, '/public')));
+  app.use(express.static(path.join(__dirname, '/public'), { maxAge: oneDay }));
   app.use(app.router);
   app.use(logErrors);
   app.use(errorHandler);  
