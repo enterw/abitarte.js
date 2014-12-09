@@ -4,35 +4,70 @@
         "lang": "en-US"
     },
     "casa": {
-        "seoTitle": "La casa title seo",
-        "seoDescription": "La casa description seo",
-        "h1": "h1",
-        "h2": "h2",
-        "p": "p",
+        "seoTitle": "Rustic farmhouse copyright for sale near Verona",
+        "seoDescription": "Restored and customized by the artist Giuseppe Marini Wenter",
+        "h1": "Rustic farmhouse copyright for sale near Verona",
+        "h2": "Restored and customized by the artist Giuseppe Marini Wenter",
+        "p": [
+          "Nestled in the green hills toward the Mezzane Valley, on the edge of the center of St. Peter.<br/><br/>",
+          "Part of ancient rustic complex of 700 (former ancient inn), facing new subdivision prestigious residential census in NCU the municipality of Lavagno (VR) part 324 sheet 11.<br/><br/>",
+          "Plans ground, first and second tot. 10 rooms covering an area of ​​about 340 square meters. (310 Functional).<br/><br/>",
+          "One owner, already the subject of rehabilitation and restoration of functional integration population of 1983, possible extension of restoration, immediately habitable.<br/><br/>",          
+          "And 'the end of the rustic farmhouse with views on 3 sides:",
+          "<ul><li>on the ground floor: large entrance hall with staircase prospicente, terracotta tiled floor, small cellar with entrance to the medium;</li>",
+          "<li>First floor: living room with terrazzo floors patterned, large terrace of 30 sqm.; stairway to the second floor with wood paneling; ceiling with exposed beams painted with geometric motifs, kitchen with fireplace, large bathroom with ceramic floor end, 1 bedroom with parquet floor;</li>",
+          "<li>Second floor: bright and attic (average height 2.36 meters - 2.98 meters maximum) paneling with exposed beams treated and painted over the entire range, living room, 2-3 bedrooms, bathroom, hardwood floors, carpeted , colored rubber;</li>",
+          "<li>heating and modular;</li>",
+          "<li>garage or any other on the left side is not restored;</li>",
+          "<li>stone facade.</li></ul>"
+        ],
         "nav": "The house"
     },
     "artista": {
-        "seoTitle": "L'artista title seo",
-        "seoDescription": "L'artista description seo",
-        "h1": "h1",
-        "h2": "h2",
-        "p": "p",
+        "seoTitle": "Country house for sale restored and customized by the artist Giuseppe Marini Wenter",
+        "seoDescription": "Born in 1944 in Merano (BZ) - Italy",
+        "h1": "Country house for sale restored and customized by the artist Giuseppe Marini Wenter",
+        "h2": "Born in 1944 in Merano (BZ) - Italy",
+        "p": [
+          "Stayed in Rovereto and Trento, taking an interest in artistic movements, participating in cultural circles and research groups local art.<br/><br/>",
+          "After moving to Brussels in the 70s he took courses in painting, drawing and printmaking at the Academie Royale des Beaux-Arts led by major international artists.<br/><br/>",
+          "He has developed and works called IPOTESI e PROPOSTE, VERIFICA di IPOTESI, SENSAZIONI and more later.<br/><br/>",
+          "Activity:<br/>",
+          "dal 1963 in esposizioni collettive e personali organizzate da Circoli Culturali e Organismi rappresentativi, Enti pubblici e Gallerie con edizioni di grafica esclusiva a cura della SELECTA srl.<br/><br/>",
+          "Trade shows and exhibitions:",
+          "<ul><li>to Riykcentrum Frans Masereel - Ministerie van Nederlandse Cultuur - Kasterlee</li>",
+          "<li>to 'Italian Cultural Institute in Brussels</li>",
+          "<li>Italian Cultural Institute in Amsterdam</li>",
+          "<li>he Commission des Communautes Européennes - Europa Club Overijse</li>",
+          "<li>His works are in private and public collections</li>",
+          "<li>acquisitions of the Bibliothèque Royale de Belgique Albert 1</li>",
+          "<li>Ministere de l'Education Nationale de Belgique</li></ul>"
+        ],
         "nav": "The artist"
     },
     "zona": {
-        "seoTitle": "La zona title seo",
-        "seoDescription": "La zona description seo",
-        "h1": "h1",
-        "h2": "h2",
-        "p": "p",
+        "seoTitle": "Rustic copyright for sale in the area of Verona",
+        "seoDescription": "Accessible and high living comfort",
+        "h1": "Rustic copyright for sale in the area of Verona",
+        "h2": "Accessible and high living comfort",
+        "p": [
+          "In position easily accessible by public road:",
+          "<ul><li>3.5 km (6 min) tangential exit south of Verona</li>",
+          "<li>6 km (10 minutes) motorway exit Verona South (A4 Milan-Venice)</li>",
+          "<li>16 km (20 minutes) Verona center</li>",
+          "<li>42 km (35 minutes) Peschiera and Lake Garda</li>",
+          "<li>50 km (35 minutes) Vicenza center</li>",
+          "<li>100 km Venice</li>",
+          "<li>150 km Dolomites</li></ul>"
+        ],
         "nav": "The area"
     },
     "contatti": {
-        "seoTitle": "Contatti title seo",
-        "seoDescription": "Contatti description seo",
-        "h1": "h1",
-        "h2": "h2",
-        "p": "p",
+        "seoTitle": "Contacts",
+        "seoDescription": "For more details and price of the rustic farmhouse renovated by the artist Giuseppe Marini Wenter",
+        "h1": "Contacts",
+        "h2": "For more details and price",
+        "p": "<a href='mailto:info@abitarte.it'>info@abitarte.it</a><br/>+39 339 8033422",
         "nav": "La maison"
     }
 }

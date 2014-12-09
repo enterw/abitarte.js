@@ -52,13 +52,13 @@
         "h2": "Accessible et un grand confort de vie",
         "p": [
           "En position facilement accessible par la route publique:",
-          "<ul><li>3,5 km (6 min) sortie <b>tangentielle sud</b> de Vérone</li>",
-          "<li>6 km (10 minuti) uscita casello <b>autostradale Verona-Est (A4 Milano-Venezia)</b></li>",
-          "<li>16 km (20 minutes) <b>centre de Vérone</b></li>",
-          "<li>42 km (35 minutes) <b>Peschiera</b> et du <b>lac de Garde</b></li>",
-          "<li>50 km (35 minuti) centro <b>Vicenza</b></li>",
-          "<li>50 km (35 minutes) du centre de <b>Vicence</b></li>",
-          "<li>150 km <b>Dolomites</b></li></ul>"
+          "<ul><li>3,5 km (6 min) sortie tangentielle sud de Vérone</li>",
+          "<li>6 km (10 minuti) uscita casello autostradale Verona-Est (A4 Milano-Venezia)</li>",
+          "<li>16 km (20 minutes) centre de Vérone</li>",
+          "<li>42 km (35 minutes) Peschiera et du lac de Garde</li>",
+          "<li>50 km (35 minuti) centro Vicenza</li>",
+          "<li>50 km (35 minutes) du centre de Vicence</li>",
+          "<li>150 km Dolomites</li></ul>"
         ],
         "nav": "La zone"
     },
