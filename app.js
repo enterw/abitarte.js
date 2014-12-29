@@ -47,12 +47,12 @@ app.get('/', function (req, res) {
     res.redirect(301, '/it/');
 });
 
-app.get('/it/', routes.casa);
-app.get('/fr/', routes.casa);
-app.get('/en/', routes.casa);
-app.get('/it/artista', routes.artista);
-app.get('/fr/artiste', routes.artista);
-app.get('/en/artist', routes.artista);
+app.get('/it/', routes.artista);
+app.get('/fr/', routes.artista);
+app.get('/en/', routes.artista);
+app.get('/it/casa', routes.casa);
+app.get('/fr/maison', routes.casa);
+app.get('/en/home', routes.casa);
 app.get('/it/zona', routes.zona);
 app.get('/fr/region', routes.zona);
 app.get('/en/area', routes.zona);

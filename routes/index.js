@@ -34,14 +34,14 @@ function render(req, res, currentRotta)
   var h2 = i18n.t(currentRotta+".h2");
   var p = i18n.t(currentRotta+".p");
   
-  var navCasa = i18n.t('rotta-' + currentLng + '.casa', { lng: 'dev' });
   var navArtista = i18n.t('rotta-' + currentLng + '.artista', { lng: 'dev' });
+  var navCasa = i18n.t('rotta-' + currentLng + '.casa', { lng: 'dev' });
   var navZona = i18n.t('rotta-' + currentLng + '.zona', { lng: 'dev' });
   var navContatti = i18n.t('rotta-' + currentLng + '.contatti', { lng: 'dev' });
   
   var nav = [
-    { label: i18n.t("casa.nav"), key: 'casa', path: navCasa },
     { label: i18n.t("artista.nav"), key: 'artista', path: navArtista },
+    { label: i18n.t("casa.nav"), key: 'casa', path: navCasa },
     { label: i18n.t("zona.nav"), key: 'zona', path: navZona },
     { label: i18n.t("contatti.nav"), key: 'contatti', path: navContatti },
   ];

@@ -88,7 +88,26 @@ angular.
         {src: '/img/slider/sliders/artista/010.resized.jpg', descIT: '', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/artista/011.resized.jpg', descIT: '', descFR: '', descEN: ''},
         {src: '/img/slider/sliders/artista/014.resized.jpg', descIT: '', descFR: '', descEN: ''},
-        {src: '/img/slider/sliders/artista/013.resized.jpg', descIT: '', descFR: '', descEN: ''}
+        {src: '/img/slider/sliders/artista/013.resized.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/001.a.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/002.a.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/003.a.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/004.a.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/005.a.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/006.a.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/007.a.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/008.a.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/009.a.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/010.a.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/001.b.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/002.b.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/003.b.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/004.b.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/005.b.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/006.b.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/007.b.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/008.b.jpg', descIT: '', descFR: '', descEN: ''},
+        {src: '/img/slider/sliders/artista/009.b.jpg', descIT: '', descFR: '', descEN: ''}
     ];
 
     sliderInit($scope);

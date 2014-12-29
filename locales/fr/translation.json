@@ -3,26 +3,6 @@
         "currentLng": "fr",
         "lang": "fr-FR"
     },
-    "casa": {
-        "seoTitle": "Rustique auteur de ferme près de Vérone",
-        "seoDescription": "Restauré et personnalisé par l'artiste Giuseppe Marini Wenter",
-        "h1": "Rustique auteur de ferme près de Vérone",
-        "h2": "Restauré et personnalisé par l'artiste Giuseppe Marini Wenter",
-        "p": [ 
-          "Niché dans les collines verdoyantes vers la vallée Mezzane, sur le bord du centre de Saint-Pierre.<br/><br/>",
-          "Partie de l'ancienne complexe rustique de 700 (ancienne auberge ancienne), face nouveau lotissement prestigieux recensement résidentiel dans NCU la municipalité de Lavagno (VR) partie 324 feuille 11.<br/><br/>",        
-          "Plans chaussée, premier et deuxième tot. 10 chambres d'une superficie d'environ 340 mètres carrés. (310 fonctionnelle).<br/><br/>",        
-          "Un propriétaire, déjà fait l'objet de réhabilitation et de restauration de la population de l'intégration fonctionnelle de 1983, l'extension possible de la restauration, habitable de suite.<br/><br/>",       
-          "Et la fin de la ferme rustique avec vue sur 3 côtés: ",
-          "<ul><li>au rez de chaussée: grand hall d'entrée avec escalier en face, carrelage en terre cuite, petite cave avec entrée au milieu;</li>",   
-          "<li>Premier étage: salle de séjour avec terrazzo modelé, grande terrasse de 30 m²; escalier au deuxième étage avec boiseries, plafond avec poutres apparentes peintes avec des motifs géométriques, cuisine avec cheminée, grande salle de bains. avec fin de céramique au sol, 1 chambre avec parquet;</li>",       
-          "<li>Deuxième étage: lumineux et grenier (hauteur moyenne de 2,36 mètres - 2,98 mètres maximum) lambris avec poutres apparentes traitées et peintes sur toute la plage, salon, 2-3 chambres à coucher, salle de bains, planchers de bois franc, moquette , le caoutchouc de couleur;</li>",
-          "<li>chauffage et modulaire;</li>",
-          "<li>un garage ou tout autre sur le côté gauche n'est pas rétablie;</li>",
-          "<li>façade en pierre.</li></ul> "      
-        ],
-        "nav": "La maison"
-    },
     "artista": {
         "seoTitle": "Maison de campagne restauré et personnalisé par l'artiste Giuseppe Marini Wenter",
         "seoDescription": "Né en 1944 à Merano (BZ) - Italie",
@@ -45,6 +25,26 @@
         ],
         "nav": "L'artiste"
     },
+    "casa": {
+        "seoTitle": "Rustique auteur de ferme près de Vérone",
+        "seoDescription": "Restauré et personnalisé par l'artiste Giuseppe Marini Wenter",
+        "h1": "Rustique auteur de ferme près de Vérone",
+        "h2": "Restauré et personnalisé par l'artiste Giuseppe Marini Wenter",
+        "p": [ 
+          "Niché dans les collines verdoyantes vers la vallée Mezzane, sur le bord du centre de Saint-Pierre.<br/><br/>",
+          "Partie de l'ancienne complexe rustique de 700 (ancienne auberge ancienne), face nouveau lotissement prestigieux recensement résidentiel dans NCU la municipalité de Lavagno (VR) partie 324 feuille 11.<br/><br/>",        
+          "Plans chaussée, premier et deuxième tot. 10 chambres d'une superficie d'environ 340 mètres carrés. (310 fonctionnelle).<br/><br/>",        
+          "Un propriétaire, déjà fait l'objet de réhabilitation et de restauration de la population de l'intégration fonctionnelle de 1983, l'extension possible de la restauration, habitable de suite.<br/><br/>",       
+          "Et la fin de la ferme rustique avec vue sur 3 côtés: ",
+          "<ul><li>au rez de chaussée: grand hall d'entrée avec escalier en face, carrelage en terre cuite, petite cave avec entrée au milieu;</li>",   
+          "<li>Premier étage: salle de séjour avec terrazzo modelé, grande terrasse de 30 m²; escalier au deuxième étage avec boiseries, plafond avec poutres apparentes peintes avec des motifs géométriques, cuisine avec cheminée, grande salle de bains. avec fin de céramique au sol, 1 chambre avec parquet;</li>",       
+          "<li>Deuxième étage: lumineux et grenier (hauteur moyenne de 2,36 mètres - 2,98 mètres maximum) lambris avec poutres apparentes traitées et peintes sur toute la plage, salon, 2-3 chambres à coucher, salle de bains, planchers de bois franc, moquette , le caoutchouc de couleur;</li>",
+          "<li>chauffage et modulaire;</li>",
+          "<li>un garage ou tout autre sur le côté gauche n'est pas rétablie;</li>",
+          "<li>façade en pierre.</li></ul> "      
+        ],
+        "nav": "La maison"
+    },
     "zona": {
         "seoTitle": "Copyright rustique dans la région de Vérone",
         "seoDescription": "Accessible et un grand confort de vie",
@@ -64,9 +64,9 @@
     },
     "contatti": {
         "seoTitle": "Contacts",
-        "seoDescription": "Pour plus de détails et les prix de la ferme rustique entièrement rénové par l'artiste Giuseppe Marini Wenter",
+        "seoDescription": "Pour plus de détails de la ferme rustique entièrement rénové par l'artiste Giuseppe Marini Wenter",
         "h1": "Contacts",
-        "h2": "Pour plus de détails et prix",
+        "h2": "Pour plus de détails",
         "p": "<a href='mailto:info@abitarte.it'>info@abitarte.it</a><br/>+39 339 8033422",
         "nav": "Contacts"
     }
