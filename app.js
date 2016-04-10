@@ -8,6 +8,7 @@ var routes = require('./routes');
 var http = require('http');
 var path = require('path');
 var i18n = require('i18next');
+var fs = require('fs');
 
 var app = module.exports = express();
 
@@ -34,7 +35,7 @@ app.configure(function() {
   app.use(express.static(path.join(__dirname, '/public'), { maxAge: oneDay }));
   app.use(app.router);
   app.use(logErrors);
-  app.use(errorHandler);  
+  //app.use(errorHandler);  
 });
 
 app.set('port', process.env.PORT || 3000);
@@ -59,6 +60,14 @@ app.get('/en/area', routes.zona);
 app.get('/it/contatti', routes.contatti);
 app.get('/fr/contacts', routes.contatti);
 app.get('/en/contacts', routes.contatti);
+app.get('/cookie', function(req,res){
+  //path.resolve('cookie.html')
+  fs.readFile(path.join(__dirname, '/html', '/cookie.html'), function(err, page) {
+    res.writeHead(200, {'Content-Type': 'text/html'});
+    res.write(page);
+    res.end();
+  });
+});
 
 app.get('*', function(req, res){
   res.redirect(301, '/it/');

@@ -1,0 +1,28 @@
+{
+  "name": "abitarte.js",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.8.0",
+    "jade": "*",
+    "stylus": "*"
+  },
+  "description": "Sito web artista Wenter Marini Giuseppe",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/enterw/abitarte.js"
+  },
+  "keywords": [
+    "artista"
+  ],
+  "author": "Igor Wenter Marini",
+  "license": "No",
+  "bugs": {
+    "url": "https://github.com/enterw/abitarte.js/issues"
+  }
+}

@@ -8,18 +8,17 @@ block content
     
     !{p}
     
-    div(ng-controller='MainCtrl1')
+    <!-- Inizio slider -->
+    div(ng-controller='MainCtrl2')
       div(class="container slider")
 
         div(class="didascalia")
           a(class="arrow prev" ng-click="showPrev()" href="javascript:void(0);")
           a(class="arrow next" ng-click="showNext()" href="javascript:void(0);")
           p {{getDidascalia('#{currentLng}')}}
-                 
+                  
         div.cornice
           img(ng-repeat="photo in photos" class="slide" ng-click="showNext()" ng-swipe-right="showPrev()" ng-swipe-left="showNext()" ng-show="isActive($index)" ng-src="{{photo.src}}" alt="{{photo.desc}}")
-          
-
- 
+     <!-- Fine slider -->       
      
 

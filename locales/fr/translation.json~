@@ -4,15 +4,15 @@
         "lang": "fr-FR"
     },
     "artista": {
-        "seoTitle": "Maison de campagne restauré et personnalisé par l'artiste Giuseppe Marini Wenter",
+        "seoTitle": "Giuseppe Marini Wenter",
         "seoDescription": "Né en 1944 à Merano (BZ) - Italie",
-        "h1": "Maison de campagne restauré et personnalisé par l'artiste Giuseppe Marini Wenter",
+        "h1": "Giuseppe Marini Wenter",
         "h2": "Né en 1944 à Merano (BZ) - Italie",
         "p": [
           "Séjour à Rovereto et Trento, en prenant une participation dans les mouvements artistiques, participer à des cercles culturels et des groupes de recherche d'art local.<br/><br/>",
           "Après avoir déménagé à Bruxelles dans les années 70, il a pris des cours de peinture, dessin et la gravure à l'Académie Royale des Beaux-Arts dirigés par de grands artistes internationaux.<br/><br/>",
           "Il a développé des œuvres et appelle IPOTESI e PROPOSTE, VERIFICA di IPOTESI, SENSAZINI et plus tard.<br/><br/>",
-"Firmato nell' autunno del 1976 <b>Il manifesto Astrazione Oggettiva</b> con Aldo Schmid, Luigi Senesi, Mauro Cappelletti, Diego Mazzonelli, Gianni Pellegrini.<br/><br/>",          
+          "Signé à 'automne 1976 <b>Il manifesto Astrazione Oggettiva</b> avec Aldo Schmid, Luigi Senesi, Mauro Cappelletti, Diego Mazzonelli, Gianni Pellegrini.<br/><br/>",          
           "Activité:<br/>",
           "depuis 1963 dans expositions individuelles et collectives organisées par les cercles culturels et les organismes représentatifs, les éditions publiques et des galeries avec des graphismes uniques par le SELECTA srl.<br/><br/>",
           "Salons et expositions:",
@@ -65,10 +65,18 @@
     },
     "contatti": {
         "seoTitle": "Contacts",
-        "seoDescription": "Pour plus de détails de la ferme rustique entièrement rénové par l'artiste Giuseppe Marini Wenter",
+        "seoDescription": "Pour plus de détails de l'artiste Giuseppe Marini Wenter",
         "h1": "Contacts",
         "h2": "Pour plus de détails",
         "p": "<a href='mailto:info@abitarte.it'>info@abitarte.it</a><br/>+39 339 8033422",
         "nav": "Contacts"
+    },
+    "cookie": {
+        "seoTitle": "Privacy",
+        "seoDescription": "Privacy Policy e Gestione dei Cookies",
+        "h1": "Privacy",
+        "h2": "Privacy Policy e Gestione dei Cookies",
+        "p": "ciao",
+        "nav": "Cookie"
     }
 }

@@ -17,7 +17,7 @@ exports.zona = function(req, res){
 };
 
 exports.contatti = function(req, res){
-  render(req, res, 'contatti') ;
+  render(req, res, 'contatti');
 };
 
 function render(req, res, currentRotta)
@@ -42,7 +42,7 @@ function render(req, res, currentRotta)
   var nav = [
     { label: i18n.t("artista.nav"), key: 'artista', path: navArtista },
     { label: i18n.t("casa.nav"), key: 'casa', path: navCasa },
-    { label: i18n.t("zona.nav"), key: 'zona', path: navZona },
+    /*{ label: i18n.t("zona.nav"), key: 'zona', path: navZona },*/
     { label: i18n.t("contatti.nav"), key: 'contatti', path: navContatti },
   ];
     
@@ -52,8 +52,8 @@ function render(req, res, currentRotta)
   
   var navLang = [
     { label: 'it', key: 'it', path: navIt },
-    { label: 'fr', key: 'fr', path: navFr },
-    { label: 'en', key: 'en', path: navEn },
+    /*{ label: 'fr', key: 'fr', path: navFr },
+    { label: 'en', key: 'en', path: navEn },*/
   ];
      
   res.setHeader("Content-Language", lang);

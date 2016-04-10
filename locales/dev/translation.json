@@ -3,18 +3,21 @@
         "artista": "/it/",
         "casa": "/it/casa",
         "zona": "/it/zona",
-        "contatti": "/it/contatti"
+        "contatti": "/it/contatti",
+        "cookie": "/it/"
     },
     "rotta-fr": {
         "artista": "/fr/",
         "casa": "/fr/maison",
         "zona": "/fr/region",
-        "contatti": "/fr/contacts"
+        "contatti": "/fr/contacts",
+        "cookie": "/fr/"
     },
     "rotta-en": {
         "artista": "/en/",
         "casa": "/en/home",
         "zona": "/en/area",
-        "contatti": "/en/contacts"
+        "contatti": "/en/contacts",
+        "cookie": "/en/"
     }
 }

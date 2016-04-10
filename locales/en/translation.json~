@@ -24,15 +24,15 @@
         "nav": "The house"
     },
     "artista": {
-        "seoTitle": "Country house restored and customized by the artist Giuseppe Marini Wenter",
+        "seoTitle": "Giuseppe Marini Wenter",
         "seoDescription": "Born in 1944 in Merano (BZ) - Italy",
-        "h1": "Country house restored and customized by the artist Giuseppe Marini Wenter",
+        "h1": "Giuseppe Marini Wenter",
         "h2": "Born in 1944 in Merano (BZ) - Italy",
         "p": [
           "Stayed in Rovereto and Trento, taking an interest in artistic movements, participating in cultural circles and research groups local art.<br/><br/>",
           "After moving to Brussels in the 70s he took courses in painting, drawing and printmaking at the Academie Royale des Beaux-Arts led by major international artists.<br/><br/>",
           "He has developed and works called IPOTESI e PROPOSTE, VERIFICA di IPOTESI, SENSAZIONI and more later.<br/><br/>",
-					"Firmato nell' autunno del 1976 <b>Il manifesto Astrazione Oggettiva</b> con Aldo Schmid, Luigi Senesi, Mauro Cappelletti, Diego Mazzonelli, Gianni Pellegrini.<br/><br/>",          
+					"Signed in 'autumn of 1976 <b>Il manifesto Astrazione Oggettiva</b> with Aldo Schmid, Luigi Senesi, Mauro Cappelletti, Diego Mazzonelli, Gianni Pellegrini.<br/><br/>",          
           "Activity:<br/>",
           "dal 1963 in esposizioni collettive e personali organizzate da Circoli Culturali e Organismi rappresentativi, Enti pubblici e Gallerie con edizioni di grafica esclusiva a cura della SELECTA srl.<br/><br/>",
           "Trade shows and exhibitions:",
@@ -65,10 +65,18 @@
     },
     "contatti": {
         "seoTitle": "Contacts",
-        "seoDescription": "For more details of the rustic farmhouse renovated by the artist Giuseppe Marini Wenter",
+        "seoDescription": "For more details of the artist Giuseppe Marini Wenter",
         "h1": "Contacts",
         "h2": "For more details",
         "p": "<a href='mailto:info@abitarte.it'>info@abitarte.it</a><br/>+39 339 8033422",
         "nav": "La maison"
+    },
+    "cookie": {
+        "seoTitle": "Privacy",
+        "seoDescription": "Privacy Policy e Gestione dei Cookies",
+        "h1": "Privacy",
+        "h2": "Privacy Policy e Gestione dei Cookies",
+        "p": "ciao",
+        "nav": "Cookie"
     }
 }
