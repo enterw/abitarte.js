@@ -74,6 +74,15 @@ app.get('*', function(req, res){
   //res.send('404:Pagina non disponibile!', 404);
 });
 
+app.all(/.*/, function(req, res, next) {
+  var host = req.header("host");
+  if (host.match(/^www\..*/i)) {
+    next();
+  } else {
+    res.redirect(301, "http://www." + host);
+  }
+});
+
 function logErrors(err, req, res, next) {
   console.error(err.stack);
   next(err);
