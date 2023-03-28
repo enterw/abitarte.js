@@ -74,14 +74,16 @@ app.get('*', function(req, res){
   //res.send('404:Pagina non disponibile!', 404);
 });
 
-app.all(/.*/, function(req, res, next) {
-  var host = req.header("host");
-  if (host.match(/^www\..*/i)) {
+function wwwRedirect(req, res, next) {
+    if (req.headers.host.slice(0, 4) === 'www.') {
+        var newHost = req.headers.host.slice(4);
+        return res.redirect(301, req.protocol + '://' + newHost + req.originalUrl);
+    }
     next();
-  } else {
-    res.redirect(301, "http://www." + host);
-  }
-});
+};
+
+app.set('trust proxy', true);
+app.use(wwwRedirect);
 
 function logErrors(err, req, res, next) {
   console.error(err.stack);
