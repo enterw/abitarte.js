@@ -74,6 +74,11 @@ app.get('*', function(req, res){
   //res.send('404:Pagina non disponibile!', 404);
 });
 
+// Listen on `port` and 0.0.0.0
+app.listen(app.get('port'), "0.0.0.0", function () {
+  // ...
+});
+
 function logErrors(err, req, res, next) {
   console.error(err.stack);
   next(err);
